@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+             android:id="@+id/rgDateRangeGroup"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Предыдущий день"
+            android:id="@+id/rbDataRangePrevDay"
+            android:layout_gravity="left|center_vertical"
+            android:checked="true"/>
+    <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Текущий месяц"
+            android:id="@+id/rbDataRangeCurrMonth"
+            android:layout_gravity="left|center_vertical"/>
+    <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Предыдущий месяц"
+            android:id="@+id/rbDataRangePrevMonth"
+            android:layout_gravity="left|center_vertical"/>
+
+</RadioGroup>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="white_text_holo_dark">#FFFFFFFF</color>
+  <color name="black_text_holo_dark">#FF000000</color>
+  <color name="primary_text_holo_dark">#FF292929</color>
+  <color name="primary_text_holo_light">#7FFFFFFF</color>
+  <color name="acsent_color">#FFFF4444</color>
+  <color name="pressed_example">#99FF4444</color>
+  <color name="progress_started">#99ffdad4</color>
+  <color name="secondary_text_holo_dark">#33D6D6D6</color>
+  <color name="secondary_text_holo_light">#26292929</color>
+  <color name="hint_text_holo_light">#99f9b0a7</color>
+  <color name="about_text_holo_light">#FF898989</color>
+</resources>

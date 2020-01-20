@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.proryv.alarmnotification.common.UploadActionBarView xmlns:android="http://schemas.android.com/apk/res/android"
+                                                                  android:layout_width="wrap_content"
+                                                                  android:layout_height="match_parent"
+                                                                  android:gravity="center_vertical|right"
+                                                                  android:orientation="vertical" >
+    <ProgressBar android:layout_width="32dp"
+                 android:layout_height="32dp"
+                 android:layout_gravity="center"
+            android:id="@+id/pb_uploads_action"
+            android:visibility="gone"/>
+    <ImageView
+            android:id="@+id/iv_action_upload"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/ic_menu_refresh"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp" />
+</com.proryv.alarmnotification.common.UploadActionBarView>

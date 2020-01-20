@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:orientation="vertical"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content">
+    <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/cbIsConfirmCurrAlarm"
+            android:focusable="false"
+            android:layout_marginLeft="3dp"
+            android:layout_gravity="center_vertical|left"
+            android:padding="20dp"/>
+    <TextView
+            android:id="@+id/tvCurrAlarmEndpointAddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="xx.xx.xx.xx"
+            android:textSize="15sp"
+            android:textColor="@color/pressed_example"
+            android:layout_marginTop="2.0dp"
+            android:layout_marginLeft="38.0dp"
+            android:layout_gravity="top|left" />
+    <ImageView
+            android:src="@drawable/flag_red"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ivCurrAlarmLevel"
+            android:layout_gravity="right|top"
+            android:layout_marginRight="10dp" />
+    <TextView
+            android:text="Какое то аварийное сообщение"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvCurrAlarmMessageShort"
+            android:layout_marginTop="20.0dp"
+            android:layout_marginLeft="38dp"
+            android:layout_marginRight="10.0dp"
+            android:textColor="@color/primary_text_holo_dark"
+            android:textSize="16sp"
+            android:paddingTop="5dp"
+            android:paddingBottom="20dp" />
+    <TextView
+            android:text="24.12.12 14:12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvCurrAlarmDateTime"
+            android:layout_gravity="right|bottom"
+            android:layout_marginRight="18.0dp"
+            android:textColor="@color/pressed_example"
+            android:textSize="13sp"/>
+</FrameLayout>

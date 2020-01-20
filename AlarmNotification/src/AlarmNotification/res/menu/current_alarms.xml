@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuSearch"
+          android:title="@string/Search"
+          android:icon="@android:drawable/ic_menu_search"
+          android:showAsAction="ifRoom|collapseActionView"
+          android:actionViewClass="android.widget.SearchView">
+    </item>
+    <item android:id="@+id/menuRefresh"
+          android:title="@string/Refresh"
+          android:icon="@drawable/ic_menu_refresh"
+          android:visible="true"
+          android:showAsAction="always">
+    </item>
+    <item android:id="@+id/menuCurrentObject"
+          android:title="@string/Object_filter"
+          android:textColor="@color/primary_text_holo_dark"
+          android:showAsAction="collapseActionView">
+    </item>
+    <item android:id="@+id/menuFilter"
+          android:title="@string/Filter_for_request"
+          android:textColor="@color/primary_text_holo_dark"
+          android:showAsAction="collapseActionView">
+    </item>
+    <item android:id="@+id/menuSelectAll"
+          android:icon="@drawable/ic_menu_mark"
+          android:title="@string/Select_all"
+          android:textColor="@color/primary_text_holo_dark"
+          android:showAsAction="collapseActionView">
+    </item>
+    <item android:id="@+id/menuUnselectAll"
+          android:title="@string/Clear_selected"
+          android:textColor="@color/primary_text_holo_dark"
+          android:showAsAction="collapseActionView">
+    </item>
+    <item android:id="@+id/menuConfirmSelected"
+          android:title="@string/Confirm_selected"
+          android:textColor="@color/primary_text_holo_dark"
+          android:showAsAction="collapseActionView">
+    </item>
+    <item android:id="@+id/menuConfirmAll"
+          android:title="@string/Confirm_all"
+          android:textColor="@color/primary_text_holo_dark"
+          android:showAsAction="collapseActionView">
+    </item>
+</menu>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:minWidth="25px"
+              android:minHeight="25px">
+    <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal"
+            android:background="@color/white_text_holo_dark"
+            android:paddingLeft="2dp"
+            android:paddingBottom="2dp"
+            android:paddingRight="2dp"
+            android:paddingTop="2dp">
+        <ImageView
+                android:src="@drawable/icon"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:id="@+id/imageView1" />
+        <TextView
+                android:id="@+id/tvTitle"
+                style="?android:attr/textAppearanceLarge"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Dialog title"
+                android:textColor="@color/acsent_color"
+                android:layout_toRightOf="@id/imageView1"
+                android:layout_marginLeft="6.7dp"
+                android:textSize="16sp"
+                android:paddingTop="10dp"
+                android:paddingBottom="8dp"
+                android:textStyle="normal" />
+
+        <SearchView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/searchView"
+                android:layout_gravity="right|top"
+                android:layout_marginLeft="89dp"/>
+
+    </FrameLayout>
+    <View
+            android:id="@+id/separator1"
+            android:layout_width="fill_parent"
+            android:background="@color/acsent_color"
+            android:layout_height="1dp" />
+    <ExpandableListView
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/listView"
+            android:fastScrollEnabled="true"
+            android:drawSelectorOnTop="false"/>
+</LinearLayout>

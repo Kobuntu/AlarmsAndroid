@@ -1,0 +1,9 @@
+﻿<selector xmlns:android="http://schemas.android.com/apk/res/android" android:exitFadeDuration="@android:integer/config_mediumAnimTime">
+  <item android:state_focused="true"  android:state_enabled="false" android:state_pressed="true" android:drawable="@drawable/ic_checkmark_pressed_holo_light" />
+  <item android:state_focused="true"  android:state_enabled="false"                              android:drawable="@drawable/ic_checkmark_pressed_holo_light" />
+  <item android:state_focused="true"                                android:state_pressed="true" android:drawable="@drawable/ic_checkmark_pressed_holo_light" />
+  <item android:state_focused="false"                               android:state_pressed="true" android:drawable="@drawable/ic_checkmark_pressed_holo_light" />
+  <item android:state_focused="true"                                                             android:drawable="@drawable/ic_checkmark_holo_light" />
+  <item                                                                                          android:drawable="@drawable/ic_checkmark_holo_light" />
+
+</selector>

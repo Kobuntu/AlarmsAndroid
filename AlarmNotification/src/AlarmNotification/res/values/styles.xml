@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!--стиль для всей темы-->
+    <style name="Theme.MyTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:editTextStyle">@style/EditTextStyle</item>
+        <item name="android:editTextBackground">@drawable/edit_text_holo_light</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable/btn_check_holo_light</item>
+        <item name="android:listChoiceIndicatorSingle">@drawable/btn_check_holo_light</item>
+        <item name="android:actionBarStyle">@style/ActionBarStyle</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle</item>
+        <item name="android:actionBarTabTextStyle">@style/ActionBarTabTextStyle</item>
+        <item name="android:fastScrollThumbDrawable">@drawable/fastscroll_thumb_holo</item>
+        <item name="android:listChoiceBackgroundIndicator">@drawable/list_selector_holo_dark</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/activated_background_holo_dark</item>
+        <item name="android:selectableItemBackground">@android:color/transparent</item>
+        <item name="android:actionBarItemBackground">@drawable/pressed_background</item>
+        <item name="android:dialogTheme">@style/Dialog</item>
+        <item name="android:alertDialogTheme">@style/Dialog</item>
+        <item name="android:progressBarStyle">@style/customProgressBar</item>
+        <item name="android:panelBackground">@drawable/menu_hardkey_panel</item>
+        <item name="android:actionDropDownStyle">@style/example_DropDownNav</item>
+        <item name="android:actionBarWidgetTheme">@style/Theme.stylingactionbar.widget</item>
+        <!--<item name="android:expandableListViewStyle">@style/MyExpandableListViewStyle</item>-->
+        <!--<item name="android:divider">@drawable/state_list_color</item>-->
+        <!--<item name="android:dialogCustomTitleDecorLayout">@layout/dialog</item>-->
+    </style>
+
+    <!--<style name="MyExpandableListViewStyle" parent="@android:style/Widget.Holo.ExpandableListView">
+        <item name="android:textColor">@color/acsent_color</item>
+    </style>-->
+
+
+    <style name="Theme.stylingactionbar.widget" parent="@android:style/Theme.Holo">
+        <!--<item name="android:popupMenuStyle">@style/example_PopupMenu</item>-->
+        <item name="android:dropDownListViewStyle">@style/example_DropDownListView</item>
+    </style>
+
+
+
+    <style name="DropDownListView" parent="@android:style/Widget.Holo.ListView.DropDown">
+        <item name="android:listSelector">@drawable/selectable_background</item>
+    </style>
+
+
+    <style name="example_DropDownListView" parent="@android:style/Widget.Holo.ListView.DropDown">
+        <item name="android:listSelector">@drawable/selectable_background</item>
+    </style>
+
+    <style name="example_PopupMenu" parent="@android:style/Widget.Holo.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel</item>
+    </style>
+
+    <style name="example_DropDownNav" parent="@android:style/Widget.Holo.Spinner">
+        <item name="android:background">@drawable/spinner_background_ab</item>
+       <!-- <item name="android:popupBackground">@drawable/menu_dropdown_panel</item>-->
+        <item name="android:dropDownSelector">@drawable/selectable_background</item>
+        <item name="android:textColor">@color/acsent_color</item>
+    </style>
+
+
+    <style  name="customProgressBar"  parent="@android:style/Widget.Holo.ProgressBar">
+        <item name="android:progressDrawable">@drawable/animation_barr</item>
+        <item name="android:indeterminateDrawable">@drawable/animation_barr</item>
+    </style>
+
+
+    <!--глобальные стили-->
+    <style name="EditTextStyle" parent="@android:style/Widget.Holo.EditText">
+        <item name="android:textColor">@drawable/state_list_color</item>
+        <item name="android:background">@drawable/edit_text_holo_light</item>
+        <item name="android:textAppearance">@style/EditTextAppearance</item>
+    </style>
+
+    <style name="ActionBarTabStyle" parent="@android:style/Widget.Holo.Light.ActionBar.TabView">
+        <item name="android:background">@drawable/tab_indicator_ab_example</item>
+        <item name="android:textColor">@color/acsent_color</item>
+        <!--<item name="android:paddingLeft">0dp</item>
+          <item name="android:paddingRight">0dp</item>-->
+    </style>
+
+    <style name="ActionBarStyle" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/ab_stacked_solid_example</item>
+        <item name="android:backgroundStacked">@drawable/ab_solid_example</item>
+        <item name="android:backgroundSplit">@drawable/ab_stacked_solid_example</item>
+    </style>
+
+    <style name="ActionBarTabTextStyle" parent="@android:Widget.Holo.Light.ActionBar.TabText">
+        <item name="android:textColor">@drawable/actionbar_tab_text_selector</item>
+    </style>
+
+    <style name="ActionBarTextStyle" parent="@android:style/TextAppearance.Holo">
+        <item name="android:textColor">@color/white_text_holo_dark</item>
+        <item name="android:textAppearance">@android:style/TextAppearance.Medium</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+        <!-- <item name="android:ellipsize">none</item> -->
+        <item name="android:maxLines">1</item>
+
+    </style>
+
+    <style name="Dialog" parent="android:Theme.Holo.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowTitleStyle">@style/DialogTitleStyle</item>
+    </style>
+
+    <style name="DialogTitleStyle">
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:textAppearance">@style/DialogTitleStyleTextAppearance</item>
+    </style>
+
+    <style name="DialogTitleStyleTextAppearance">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/black_text_holo_dark</item>
+    </style>
+
+
+    <!--отдельные текстовые стили для элементов-->
+    <style name="ViewTextAppearance" parent="@android:style/TextAppearance.Holo">
+        <item name="android:textColor">@color/primary_text_holo_dark</item>
+    </style>
+
+    <style name="SwitchTextAppearance" parent="@android:style/TextAppearance.Holo">
+        <item name="android:textColor">@color/white_text_holo_dark</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="EditTextAppearance" parent="@android:style/TextAppearance.Holo">
+        <item name="android:textColor">@color/primary_text_holo_dark</item>
+        <item name="android:textColorHighlight">@color/primary_text_holo_dark</item>
+        <item name="android:textColorHint">@color/primary_text_holo_dark</item>
+        <item name="android:textColorLink">@color/primary_text_holo_dark</item>
+    </style>
+
+    <style name="AlertDialogTextAppearance" parent="@android:style/TextAppearance.Holo">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/black_text_holo_dark</item>
+        <item name="android:textColorHighlight">@color/black_text_holo_dark</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlarmNotification/src/AlarmNotification/AlarmNotification.iml" filepath="$PROJECT_DIR$/AlarmNotification/src/AlarmNotification/AlarmNotification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LibraryPullToRefresh/LibraryPullToRefresh.iml" filepath="$PROJECT_DIR$/../LibraryPullToRefresh/LibraryPullToRefresh.iml" />
+    </modules>
+  </component>
+</project>
+

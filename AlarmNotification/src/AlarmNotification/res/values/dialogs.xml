@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="None">Нет</string>
+    <string name="Norma">Нормальный</string>
+    <string name="Alarm">Предупреждение</string>
+    <string name="Warning">Критический</string>
+</resources>

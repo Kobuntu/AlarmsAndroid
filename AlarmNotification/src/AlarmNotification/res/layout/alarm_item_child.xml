@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:background="@drawable/detail_curr_alarms_border"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:minWidth="25px"
+                android:minHeight="25px">
+    <TextView
+            android:text="ДАТА, ВРЕМЯ ТРЕВОГИ:"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView1"
+            android:textSize="16sp"
+            android:textColor="@color/pressed_example" />
+    <TextView
+            android:text="xx.xx.xx xx:xx"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView1"
+            android:id="@+id/tvDetailEventDateTime"
+            android:textColor="@color/primary_text_holo_dark"
+            android:textSize="16sp" />
+    <TextView
+            android:text="ПОЛНОЕ СООБЩЕНИЕ:"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvDetailEventDateTime"
+            android:id="@+id/textView2"
+            android:layout_marginTop="7.3dp"
+            android:textSize="16sp"
+            android:textColor="@color/pressed_example" />
+    <TextView
+            android:text="Сообщение"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView2"
+            android:id="@+id/tvDetailAlarmDescription"
+            android:textColor="@color/primary_text_holo_dark"
+            android:textSize="16sp" />
+    <TextView
+            android:text="ОБЪЕКТ:"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvDetailAlarmDescription"
+            android:id="@+id/tvObjectType"
+            android:layout_marginTop="8.0dp"
+            android:textSize="16sp"
+            android:textColor="@color/pressed_example" />
+    <TextView
+            android:text="Text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvObjectType"
+            android:id="@+id/tvDetailFullHierarchyName"
+            android:textColor="@color/primary_text_holo_dark"
+            android:textSize="16sp" />
+    <TextView
+            android:text="ПРОЦЕСС:"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvDetailFullHierarchyName"
+            android:id="@+id/textView5"
+            android:layout_marginTop="8.0dp"
+            android:textSize="16sp"
+            android:textColor="@color/pressed_example" />
+    <TextView
+            android:text="Text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView5"
+            android:id="@+id/tvDetailWorkFlowActivityName"
+            android:textColor="@color/primary_text_holo_dark"
+            android:textSize="16sp" />
+</RelativeLayout>

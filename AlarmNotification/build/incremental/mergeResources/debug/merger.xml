@@ -1,0 +1,1670 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res" >
+            <file
+                name="fade"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\anim\fade.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="rotate"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\anim\rotate.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="actionbar_tab_text_selector"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\actionbar_tab_text_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="activated_background_holo_dark"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\activated_background_holo_dark.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="alertdialogbutton_background"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\alertdialogbutton_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="animation_barr"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\animation_barr.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="background_image"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\background_image.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="back_date_picker"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\back_date_picker.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="btn_aplly_backgound_selector"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\btn_aplly_backgound_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="btn_chancel_background_selector"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\btn_chancel_background_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="btn_check_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\btn_check_holo_light.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="detail_curr_alarms_border"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\detail_curr_alarms_border.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="edit_text_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\edit_text_holo_light.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="fastscroll_thumb_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\fastscroll_thumb_holo.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="filter_brush"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\filter_brush.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="flag_green"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\flag_green.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="flag_red"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\flag_red.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="flag_yellow"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\flag_yellow.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\icon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="list_selector_background_transition_holo_dark"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\list_selector_background_transition_holo_dark.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="list_selector_holo_dark"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\list_selector_holo_dark.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="loader"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\loader.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="open"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\open.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="pressed_background"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\pressed_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="selectable_background"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\selectable_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="separator_line"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\separator_line.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="server_brush"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\server_brush.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="setting_server"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\setting_server.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="spinner_background_ab"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\spinner_background_ab.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="state_list_color"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\state_list_color.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="switch_inner_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\switch_inner_holo_light.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="switch_track_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\switch_track_holo_light.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tab_indicator_ab_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\tab_indicator_ab_example.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="texfield_search_view"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable\texfield_search_view.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ab_bottom_solid_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\ab_bottom_solid_example.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ab_solid_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\ab_solid_example.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ab_stacked_solid_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\ab_stacked_solid_example.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ab_transparent_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\ab_transparent_example.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="background_image"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\background_image.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_disabled_focused_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\btn_check_off_disabled_focused_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_disabled_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\btn_check_off_disabled_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_focused_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\btn_check_off_focused_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\btn_check_off_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_pressed_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\btn_check_off_pressed_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_disabled_focused_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\btn_check_on_disabled_focused_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_disabled_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\btn_check_on_disabled_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_focused_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\btn_check_on_focused_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\btn_check_on_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_pressed_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\btn_check_on_pressed_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="fastscroll_thumb_default_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\fastscroll_thumb_default_holo.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="fastscroll_thumb_pressed_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\fastscroll_thumb_pressed_holo.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="flag_green"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\flag_green.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="flag_red"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\flag_red.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="flag_yellow"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\flag_yellow.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_cab_done_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\ic_cab_done_holo.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_cab_done_pressed_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\ic_cab_done_pressed_holo.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_checkmark_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\ic_checkmark_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_checkmark_pressed_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\ic_checkmark_pressed_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_menu_mark"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\ic_menu_mark.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_menu_refresh"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\ic_menu_refresh.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_activated_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\list_activated_holo.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_focused_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\list_focused_holo.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_longpressed_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\list_longpressed_holo.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_pressed_holo_dark"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\list_pressed_holo_dark.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_selector_disabled_holo_dark"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\list_selector_disabled_holo_dark.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="menu_dropdown_panel"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\menu_dropdown_panel.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="menu_hardkey_panel"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\menu_hardkey_panel.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="pulltorefresh_arrow"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\pulltorefresh_arrow.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_default"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\spinner_ab_default.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_disabled"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\spinner_ab_disabled.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_focused"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\spinner_ab_focused.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_pressed"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\spinner_ab_pressed.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="switch_bg_disabled_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\switch_bg_disabled_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="switch_bg_focused_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\switch_bg_focused_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="switch_bg_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\switch_bg_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="switch_thumb_activated_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\switch_thumb_activated_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="switch_thumb_disabled_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\switch_thumb_disabled_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="switch_thumb_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\switch_thumb_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="switch_thumb_pressed_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\switch_thumb_pressed_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tab_selected_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\tab_selected_example.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tab_selected_focused_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\tab_selected_focused_example.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tab_selected_pressed_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\tab_selected_pressed_example.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tab_unselected_focused_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\tab_unselected_focused_example.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tab_unselected_pressed_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\tab_unselected_pressed_example.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="textfield_activated_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\textfield_activated_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="textfield_default_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\textfield_default_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="textfield_disabled_focused_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\textfield_disabled_focused_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="textfield_disabled_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\textfield_disabled_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="textfield_focused_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\textfield_focused_holo_light.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="textfield_search_default"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\textfield_search_default.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="textfield_search_selected"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-hdpi\textfield_search_selected.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-ldpi\icon.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ab_bottom_solid_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\ab_bottom_solid_example.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ab_solid_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\ab_solid_example.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ab_stacked_solid_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\ab_stacked_solid_example.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ab_transparent_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\ab_transparent_example.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="background_image"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\background_image.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_disabled_focused_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\btn_check_off_disabled_focused_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_disabled_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\btn_check_off_disabled_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_focused_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\btn_check_off_focused_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\btn_check_off_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_pressed_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\btn_check_off_pressed_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_disabled_focused_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\btn_check_on_disabled_focused_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_disabled_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\btn_check_on_disabled_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_focused_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\btn_check_on_focused_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\btn_check_on_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_pressed_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\btn_check_on_pressed_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="fastscroll_thumb_default_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\fastscroll_thumb_default_holo.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="fastscroll_thumb_pressed_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\fastscroll_thumb_pressed_holo.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="flag_green"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\flag_green.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="flag_red"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\flag_red.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="flag_yellow"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\flag_yellow.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\icon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_cab_done_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\ic_cab_done_holo.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_cab_done_pressed_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\ic_cab_done_pressed_holo.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_checkmark_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\ic_checkmark_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_checkmark_pressed_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\ic_checkmark_pressed_holo_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="list_activated_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\list_activated_holo.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="list_focused_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\list_focused_holo.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="list_longpressed_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\list_longpressed_holo.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="list_pressed_holo_dark"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\list_pressed_holo_dark.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="list_selector_disabled_holo_dark"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\list_selector_disabled_holo_dark.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="menu_dropdown_panel"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\menu_dropdown_panel.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="menu_hardkey_panel"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\menu_hardkey_panel.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_default"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\spinner_ab_default.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_disabled"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\spinner_ab_disabled.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_focused"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\spinner_ab_focused.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_pressed"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\spinner_ab_pressed.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="switch_bg_disabled_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\switch_bg_disabled_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="switch_bg_focused_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\switch_bg_focused_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="switch_bg_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\switch_bg_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="switch_thumb_activated_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\switch_thumb_activated_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="switch_thumb_disabled_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\switch_thumb_disabled_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="switch_thumb_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\switch_thumb_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="switch_thumb_pressed_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\switch_thumb_pressed_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="tab_selected_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\tab_selected_example.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="tab_selected_focused_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\tab_selected_focused_example.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="tab_selected_pressed_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\tab_selected_pressed_example.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="tab_unselected_focused_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\tab_unselected_focused_example.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="tab_unselected_pressed_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\tab_unselected_pressed_example.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="textfield_activated_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\textfield_activated_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="textfield_default_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\textfield_default_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="textfield_disabled_focused_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\textfield_disabled_focused_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="textfield_disabled_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\textfield_disabled_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="textfield_focused_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\textfield_focused_holo_light.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="textfield_search_default"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\textfield_search_default.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="textfield_search_selected"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-mdpi\textfield_search_selected.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ab_bottom_solid_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\ab_bottom_solid_example.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ab_solid_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\ab_solid_example.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ab_stacked_solid_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\ab_stacked_solid_example.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ab_transparent_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\ab_transparent_example.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="alarm_brush"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\alarm_brush.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="background_image"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\background_image.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_disabled_focused_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\btn_check_off_disabled_focused_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_disabled_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\btn_check_off_disabled_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_focused_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\btn_check_off_focused_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\btn_check_off_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_pressed_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\btn_check_off_pressed_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_disabled_focused_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\btn_check_on_disabled_focused_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_disabled_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\btn_check_on_disabled_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_focused_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\btn_check_on_focused_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\btn_check_on_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_pressed_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\btn_check_on_pressed_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="fastscroll_thumb_default_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\fastscroll_thumb_default_holo.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="fastscroll_thumb_pressed_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\fastscroll_thumb_pressed_holo.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="filter_brush"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\filter_brush.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="flag_green"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\flag_green.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="flag_red"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\flag_red.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="flag_yellow"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\flag_yellow.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\icon.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_cab_done_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\ic_cab_done_holo.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_cab_done_pressed_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\ic_cab_done_pressed_holo.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_checkmark_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\ic_checkmark_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_checkmark_pressed_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\ic_checkmark_pressed_holo_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="list_activated_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\list_activated_holo.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="list_focused_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\list_focused_holo.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="list_longpressed_holo"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\list_longpressed_holo.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="list_pressed_holo_dark"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\list_pressed_holo_dark.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="list_selector_disabled_holo_dark"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\list_selector_disabled_holo_dark.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="menu_dropdown_panel"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\menu_dropdown_panel.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="menu_hardkey_panel"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\menu_hardkey_panel.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="server_brush"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\server_brush.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_default"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\spinner_ab_default.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_disabled"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\spinner_ab_disabled.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_focused"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\spinner_ab_focused.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="spinner_ab_pressed"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\spinner_ab_pressed.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="switch_bg_disabled_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\switch_bg_disabled_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="switch_bg_focused_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\switch_bg_focused_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="switch_bg_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\switch_bg_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="switch_thumb_activated_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\switch_thumb_activated_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="switch_thumb_disabled_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\switch_thumb_disabled_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="switch_thumb_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\switch_thumb_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="switch_thumb_pressed_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\switch_thumb_pressed_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="tab_selected_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\tab_selected_example.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="tab_selected_focused_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\tab_selected_focused_example.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="tab_selected_pressed_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\tab_selected_pressed_example.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="tab_unselected_focused_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\tab_unselected_focused_example.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="tab_unselected_pressed_example"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\tab_unselected_pressed_example.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="textfield_activated_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\textfield_activated_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="textfield_default_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\textfield_default_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="textfield_disabled_focused_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\textfield_disabled_focused_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="textfield_disabled_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\textfield_disabled_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="textfield_focused_holo_light"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\textfield_focused_holo_light.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="textfield_search_default"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\textfield_search_default.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="textfield_search_selected"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xhdpi\textfield_search_selected.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="alarm_filter"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\layout\alarm_filter.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="alarm_item_child"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\layout\alarm_item_child.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="alarm_item_group"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\layout\alarm_item_group.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="archive_alarms"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\layout\archive_alarms.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="current_alarms"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\layout\current_alarms.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="custom_filter"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\layout\custom_filter.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dialog_custom"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\layout\dialog_custom.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dialog_date_range_select"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\layout\dialog_date_range_select.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dialog_date_time_range"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\layout\dialog_date_time_range.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dialog_findable"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\layout\dialog_findable.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dialog_multichoice"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\layout\dialog_multichoice.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="item_hierarchy"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\layout\item_hierarchy.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="item_multichoice"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\layout\item_multichoice.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="layout_action_upload"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\layout\layout_action_upload.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="pull_to_refresh_header"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\layout\pull_to_refresh_header.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="server_item"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\layout\server_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="server_list"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\layout\server_list.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="server_settings"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\layout\server_settings.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="archive_alarms"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\menu\archive_alarms.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="current_alarms"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\menu\current_alarms.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="server_list"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\menu\server_list.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="settings"
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\menu\settings.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\values\colors.xml"
+                qualifiers="" >
+                <color name="primary_text_holo_light" >#7FFFFFFF
+                </color>
+                <color name="black_text_holo_dark" >#FF000000
+                </color>
+                <color name="hint_text_holo_light" >#99f9b0a7
+                </color>
+                <color name="primary_text_holo_dark" >#FF292929
+                </color>
+                <color name="secondary_text_holo_light" >#26292929
+                </color>
+                <color name="secondary_text_holo_dark" >#33D6D6D6
+                </color>
+                <color name="pressed_example" >#99FF4444
+                </color>
+                <color name="acsent_color" >#FFFF4444
+                </color>
+                <color name="progress_started" >#99ffdad4
+                </color>
+                <color name="white_text_holo_dark" >#FFFFFFFF
+                </color>
+            </file>
+            <file
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\values\dialogs.xml"
+                qualifiers="" >
+                <string name="Warning" >Критический
+                </string>
+                <string name="Alarm" >Предупреждение
+                </string>
+                <string name="Norma" >Нормальный
+                </string>
+                <string name="None" >Нет
+                </string>
+            </file>
+            <file
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\values\ids.xml"
+                qualifiers="" >
+                <item
+                    name="dialog_child_id"
+                    type="id"/>
+            </file>
+            <file
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="slave61968" >61968
+                </string>
+                <string name="date_hint" >дд.мм.гггг
+                </string>
+                <string name="select_range" >Выберите диапазон
+                </string>
+                <string name="received" >: Получено 
+                </string>
+                <string name="servers_not_found" >Отсутствуют корректно описанные сервера!
+                </string>
+                <string name="formula" >Формулы
+                </string>
+                <string name="BROADCAST_ARCHIVE" >com.proryv.alarmnotification.tabs.archive
+                </string>
+                <string name="save_params_error" >Ошибка сохранения параметров! Сервер не отвечает.
+                </string>
+                <string name="wait_prev_operation" >Дождитесь окончания текущей операции
+                </string>
+                <string name="request_fault" >Ошибка запроса!
+                </string>
+                <string name="archive_tab_name" >Архив
+                </string>
+                <string name="set_other_param" >Задайте другое имя или другой адрес
+                </string>
+                <string name="wcf_status" >status
+                </string>
+                <string name="start" >НАЧАЛО
+                </string>
+                <string name="balance" >Балансы
+                </string>
+                <string name="objects" >Объекты
+                </string>
+                <string name="yes" >Да
+                </string>
+                <string name="select_alarms_for_ack" >Выберите тревоги для квитирования!
+                </string>
+                <string name="pull_to_refresh_refreshing_label" >Loading...
+                </string>
+                <string name="select_end_date" >Выберите конечную дату
+                </string>
+                <string name="change" >Изменить
+                </string>
+                <string name="BROADCAST_CURRENT" >com.proryv.alarmnotification.tabs.current
+                </string>
+                <string name="list_empty" >Список не загружен. Не найдены доступные сервера.
+                </string>
+                <string name="finish" >ОКОНЧАНИЕ
+                </string>
+                <string name="press_update" >Теперь нажмите обновить
+                </string>
+                <string name="accept" >Применить
+                </string>
+                <string name="servers_not_received" >Север не отвечает. Занят или недоступен!
+                </string>
+                <string name="wait_request" >Дождитесь повторного запроса
+                </string>
+                <string name="alarm_list_empty" >Список тревог пуст. Нет объектов для фильтра
+                </string>
+                <string name="alarm_success_ack" >Тревоги успешно квитированы
+                </string>
+                <string name="server_address_not_valid" >Адрес сервера некорректен!
+                </string>
+                <string name="no" >Нет
+                </string>
+                <string name="all_process_selected" ><![CDATA[<Выбраны все процессы>]]></string>
+                <string name="servers_tab_name" >Сервера
+                </string>
+                <string name="from" >  из 
+                </string>
+                <string name="time_hint" >чч:мм
+                </string>
+                <string name="pull_to_refresh_release_label" >Release to refresh...
+                </string>
+                <string name="not_registered" >Не удалось зарегестрироваться для получения уведомлений. Сервис недоступен.
+                </string>
+                <string name="workflow_list" >Процессы
+                </string>
+                <string name="cancel" >Отмена
+                </string>
+                <string name="update" >Обновить
+                </string>
+                <string name="select_start_time" >Выберите начальное время
+                </string>
+                <string name="server_exists" >Уже описан сервер с таким адресом
+                </string>
+                <string name="select_start_date" >Выберите начальную дату
+                </string>
+                <string name="you_wona_delete" >Хотите удалить север?
+                </string>
+                <string name="BROADCAST_WORKFLOW" >com.proryv.alarmnotification.tabs.workflow
+                </string>
+                <string name="select_end_time" >Выберите конечное время
+                </string>
+                <string name="wcf_result" >result
+                </string>
+                <string name="ti" >Точки измерения
+                </string>
+                <string name="curr_tab_name" >Текущие
+                </string>
+                <string name="pull_to_refresh_pull_label" >Pull to refresh...
+                </string>
+                <string name="object" >Объекты
+                </string>
+                <string name="server_name_not_valid" >Название сервера некорректено!
+                </string>
+                <string name="active_server_not_found" >Не найдены активные сервера
+                </string>
+                <string name="all_alarm_selected" ><![CDATA[<Выбраны все тревоги>]]></string>
+                <string name="alarm_level" >Уровень тревоги
+                </string>
+                <string name="reg_error" >Ошибка регистрации на сервере! Сервер не отвечает.
+                </string>
+                <string name="on_exit_message" >Нажмите снова для выхода
+                </string>
+                <string name="alarms" >Тревоги
+                </string>
+                <string name="BROADCAST_SERVERSETTINGS" >com.proryv.alarmnotification.serversettings
+                </string>
+                <string name="filter_name" >Фильтр
+                </string>
+                <string name="app_name" >Аварийные сообщения
+                </string>
+                <string name="save_server_settings" >Сохранить изменения перед выходом?
+                </string>
+                <string name="delete" >Удалить
+                </string>
+                <string name="server_setting" >Настройки сервера
+                </string>
+            </file>
+            <file
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="EditTextAppearance"
+                    parent="@android:style/TextAppearance.Holo" >
+                    <item name="android:textColor">
+@color/primary_text_holo_dark
+                    </item>
+                    <item name="android:textColorHighlight">
+@color/primary_text_holo_dark
+                    </item>
+                    <item name="android:textColorHint">
+@color/primary_text_holo_dark
+                    </item>
+                    <item name="android:textColorLink">
+@color/primary_text_holo_dark
+                    </item>
+                </style>
+
+                <style
+                    name="example_DropDownNav"
+                    parent="@android:style/Widget.Holo.Spinner" >
+                    <item name="android:background">
+@drawable/spinner_background_ab
+                    </item>
+                    <item name="android:popupBackground">
+@drawable/menu_dropdown_panel
+                    </item>
+                    <item name="android:dropDownSelector">
+@drawable/selectable_background
+                    </item>
+                </style>
+
+                <style
+                    name="example_PopupMenu"
+                    parent="@android:style/Widget.Holo.ListPopupWindow" >
+                    <item name="android:popupBackground">
+@drawable/menu_dropdown_panel
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.stylingactionbar.widget"
+                    parent="@android:style/Theme.Holo" >
+
+                    <!-- <item name="android:popupMenuStyle">@style/example_PopupMenu</item> -->
+                    <item name="android:dropDownListViewStyle">
+@style/example_DropDownListView
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.MyTheme"
+                    parent="@android:style/Theme.Holo.Light.DarkActionBar" >
+                    <item name="android:editTextStyle">
+@style/EditTextStyle
+                    </item>
+                    <item name="android:editTextBackground">
+@drawable/edit_text_holo_light
+                    </item>
+                    <item name="android:listChoiceIndicatorMultiple">
+@drawable/btn_check_holo_light
+                    </item>
+                    <item name="android:listChoiceIndicatorSingle">
+@drawable/btn_check_holo_light
+                    </item>
+                    <item name="android:actionBarStyle">
+@style/ActionBarStyle
+                    </item>
+                    <item name="android:actionBarTabStyle">
+@style/ActionBarTabStyle
+                    </item>
+                    <item name="android:actionBarTabTextStyle">
+@style/ActionBarTabTextStyle
+                    </item>
+                    <item name="android:fastScrollThumbDrawable">
+@drawable/fastscroll_thumb_holo
+                    </item>
+                    <item name="android:listChoiceBackgroundIndicator">
+@drawable/list_selector_holo_dark
+                    </item>
+                    <item name="android:activatedBackgroundIndicator">
+@drawable/activated_background_holo_dark
+                    </item>
+                    <item name="android:selectableItemBackground">
+@android:color/transparent
+                    </item>
+                    <item name="android:actionBarItemBackground">
+@drawable/pressed_background
+                    </item>
+                    <item name="android:dialogTheme">
+@style/Dialog
+                    </item>
+                    <item name="android:alertDialogTheme">
+@style/Dialog
+                    </item>
+                    <item name="android:progressBarStyle">
+@style/customProgressBar
+                    </item>
+                    <item name="android:panelBackground">
+@drawable/menu_hardkey_panel
+                    </item>
+                    <item name="android:actionDropDownStyle">
+@style/example_DropDownNav
+                    </item>
+                    <item name="android:actionBarWidgetTheme">
+@style/Theme.stylingactionbar.widget
+                    </item>
+                    <!-- <item name="android:divider">@drawable/state_list_color</item> -->
+                    <!-- <item name="android:dialogCustomTitleDecorLayout">@layout/dialog</item> -->
+                </style>
+
+                <style
+                    name="DropDownListView"
+                    parent="@android:style/Widget.Holo.ListView.DropDown" >
+                    <item name="android:listSelector">
+@drawable/selectable_background
+                    </item>
+                </style>
+
+                <style
+                    name="EditTextStyle"
+                    parent="@android:style/Widget.Holo.EditText" >
+                    <item name="android:textColor">
+@drawable/state_list_color
+                    </item>
+                    <item name="android:background">
+@drawable/edit_text_holo_light
+                    </item>
+                    <item name="android:textAppearance">
+@style/EditTextAppearance
+                    </item>
+                </style>
+
+                <style name="DialogTitleStyle" >
+                    <item name="android:maxLines">
+1
+                    </item>
+                    <item name="android:scrollHorizontally">
+true
+                    </item>
+                    <item name="android:textAppearance">
+@style/DialogTitleStyleTextAppearance
+                    </item>
+                </style>
+
+                <style name="DialogTitleStyleTextAppearance" >
+                    <item name="android:textSize">
+22sp
+                    </item>
+                    <item name="android:textColor">
+@color/black_text_holo_dark
+                    </item>
+                </style>
+
+                <style
+                    name="ActionBarTabStyle"
+                    parent="@android:style/Widget.Holo.Light.ActionBar.TabView" >
+                    <item name="android:background">
+@drawable/tab_indicator_ab_example
+                    </item>
+                    <item name="android:textColor">
+@color/acsent_color
+                    </item>
+                    <!--
+          <item name="android:paddingLeft">0dp</item>
+          <item name="android:paddingRight">0dp</item>
+                    -->
+                </style>
+
+                <style
+                    name="ActionBarTabTextStyle"
+                    parent="@android:Widget.Holo.Light.ActionBar.TabText" >
+                    <item name="android:textColor">
+@drawable/actionbar_tab_text_selector
+                    </item>
+                </style>
+
+                <style
+                    name="SwitchTextAppearance"
+                    parent="@android:style/TextAppearance.Holo" >
+                    <item name="android:textColor">
+@color/white_text_holo_dark
+                    </item>
+                    <item name="android:textSize">
+14sp
+                    </item>
+                </style>
+
+                <style
+                    name="customProgressBar"
+                    parent="@android:style/Widget.Holo.ProgressBar" >
+                    <item name="android:progressDrawable">
+@drawable/animation_barr
+                    </item>
+                    <item name="android:indeterminateDrawable">
+@drawable/animation_barr
+                    </item>
+                </style>
+
+                <style
+                    name="AlertDialogTextAppearance"
+                    parent="@android:style/TextAppearance.Holo" >
+                    <item name="android:textColor">
+@color/primary_text_holo_dark
+                    </item>
+                    <item name="android:textColorHighlight">
+@color/secondary_text_holo_light
+                    </item>
+                </style>
+
+                <style
+                    name="example_DropDownListView"
+                    parent="@android:style/Widget.Holo.ListView.DropDown" >
+                    <item name="android:listSelector">
+@drawable/selectable_background
+                    </item>
+                </style>
+
+                <style
+                    name="ViewTextAppearance"
+                    parent="@android:style/TextAppearance.Holo" >
+                    <item name="android:textColor">
+@color/primary_text_holo_dark
+                    </item>
+                </style>
+
+                <style
+                    name="ActionBarTextStyle"
+                    parent="@android:style/TextAppearance.Holo" >
+                    <item name="android:textColor">
+@color/white_text_holo_dark
+                    </item>
+                    <item name="android:textAppearance">
+@android:style/TextAppearance.Medium
+                    </item>
+                    <item name="android:textSize">
+12sp
+                    </item>
+                    <item name="android:textStyle">
+bold
+                    </item>
+                    <item name="android:textAllCaps">
+true
+                    </item>
+                    <!-- <item name="android:ellipsize">none</item> -->
+                    <item name="android:maxLines">
+1
+                    </item>
+                </style>
+
+                <style
+                    name="Dialog"
+                    parent="android:Theme.Holo.Light.Dialog" >
+                    <item name="android:windowBackground">
+@android:color/transparent
+                    </item>
+                    <item name="android:windowTitleStyle">
+@style/DialogTitleStyle
+                    </item>
+                </style>
+
+                <style
+                    name="ActionBarStyle"
+                    parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse" >
+                    <item name="android:background">
+@drawable/ab_stacked_solid_example
+                    </item>
+                    <item name="android:backgroundStacked">
+@drawable/ab_solid_example
+                    </item>
+                    <item name="android:backgroundSplit">
+@drawable/ab_stacked_solid_example
+                    </item>
+                </style>
+            </file>
+            <file
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\values-sw600dp\dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\build\res\rs\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\SmartMeteringMobile\Proryv\AlarmNotification\Android\AlarmNonifyJava\AlarmNotificationProject\AlarmNotification\src\debug\res" />
+    </dataSet>
+
+</merger>

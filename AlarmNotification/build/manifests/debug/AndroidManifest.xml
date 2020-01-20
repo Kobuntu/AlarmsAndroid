@@ -1,0 +1,38 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.proryv.alarmnotification">
+
+    <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="16"/>
+
+    <permission android:name="com.proryv.alarmnotification.permission.C2D_MESSAGE" android:protectionLevel="signature"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="com.proryv.alarmnotification.permission.C2D_MESSAGE"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+
+    <application android:icon="@drawable/icon" android:label="@string/alarms" android:theme="@style/Theme.MyTheme">
+        <activity android:icon="@drawable/icon" android:label="@string/app_name" android:name="com.proryv.alarmnotification.main_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="orientation|screenSize|keyboardHidden" android:icon="@drawable/filter_brush" android:label="@string/filter_name" android:name="com.proryv.alarmnotification.tabs.alarm_filter">
+            &gt;
+        </activity>
+        <activity android:icon="@drawable/server_brush" android:label="@string/server_setting" android:name="com.proryv.alarmnotification.common.ServerSettings">
+            &gt;
+        </activity>
+        <receiver android:exported="true" android:name="com.google.android.gcm.GCMBroadcastReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION"/>
+                <category android:name="com.proryv.alarmnotification"/>
+            </intent-filter>
+        </receiver>
+        <service android:enabled="true" android:name="com.proryv.alarmnotification.wcf.AlarmClientService"/>
+        <service android:name="com.proryv.alarmnotification.GCMIntentService"/>
+    </application>
+</manifest>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+    <LinearLayout
+            android:id="@+id/linlaHeaderProgress"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:background="@color/progress_started"
+            android:orientation="vertical"
+            android:visibility="gone" >
+
+        <ProgressBar android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     style="?android:attr/progressBarStyleLarge"
+                     android:layout_gravity="center"
+                     android:id="@+id/pb_uploads_action"/>
+    </LinearLayout>
+    <com.handmark.pulltorefresh.library.PullToRefreshExpandableListView
+            xmlns:ptr="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/lvCurrAlarm"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:groupIndicator="@null"
+            ptr:ptrMode="pullDownFromTop"
+            ptr:ptrShowIndicator = "true" />
+</LinearLayout>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="fill_parent"
+             android:layout_height="fill_parent"
+             android:foreground="@drawable/background_image"
+             android:foregroundGravity="right|bottom">
+    <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+        <RelativeLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:minWidth="25px"
+                android:minHeight="25px">
+            <!--<TextView
+                    android:text="ФИЛЬТР"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView3"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="16dp"
+                    android:textSize="18sp"
+                    android:textColor="@color/acsent_color" />-->
+            <View
+                    android:id="@+id/separator1"
+                    android:layout_width="fill_parent"
+                    android:layout_below="@id/textView3"
+                    android:background="@color/acsent_color"
+                    android:layout_height="0dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="2dp"
+                    android:layout_marginTop="2.7dp" />
+            <TextView
+                    android:text="Дата и время тревоги:"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/tvAlarmDateTimeFilterName"
+                    android:textSize="14sp"
+                    android:layout_marginLeft="6dp"
+                    android:layout_below="@id/separator1"
+                    android:layout_alignLeft="@id/textView3"
+                    android:layout_marginTop="10dp"
+                    android:textStyle="bold" />
+            <include
+                    android:id="@+id/lAlarmLayout"
+                    android:layout_height="wrap_content"
+                    android:layout_width="fill_parent"
+                    layout="@layout/dialog_date_time_range"
+                    android:layout_below="@id/tvAlarmDateTimeFilterName"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="0dp" />
+            <TextView
+                    android:text="Дата и время получения события:"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/tvEventDateTimeFilterName"
+                    android:textSize="14sp"
+                    android:layout_marginLeft="6dp"
+                    android:layout_below="@id/lAlarmLayout"
+                    android:layout_alignLeft="@id/textView3"
+                    android:layout_marginTop="10dp"
+                    android:textStyle="bold" />
+            <include
+                    android:id="@+id/lEventLayout"
+                    android:layout_height="wrap_content"
+                    android:layout_width="fill_parent"
+                    layout="@layout/dialog_date_time_range"
+                    android:layout_below="@id/tvEventDateTimeFilterName"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="0dp" />
+            <TextView
+                    android:text="Уровень тревоги:"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/tvAlarmSeverityFilterName"
+                    android:textSize="14sp"
+                    android:layout_marginLeft="6dp"
+                    android:layout_below="@id/lEventLayout"
+                    android:layout_alignLeft="@id/textView3"
+                    android:layout_marginTop="10dp"
+                    android:textStyle="bold" />
+            <EditText
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tvAlarmSeverityFilterName"
+                    android:layout_marginTop="0dp"
+                    android:id="@+id/etAlarmSeverity"
+                    android:clickable="true"
+                    android:editable="false"
+                    android:focusable="false"
+                    android:gravity="left"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="3dp"
+                    android:singleLine="false"
+                    android:layout_marginBottom="0dp" />
+            <TextView
+                    android:text="Процесс:"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/tvWorkflowActivityFilterName"
+                    android:textSize="14sp"
+                    android:layout_marginLeft="6dp"
+                    android:layout_below="@id/etAlarmSeverity"
+                    android:layout_alignLeft="@id/textView3"
+                    android:layout_marginTop="10dp"
+                    android:textStyle="bold" />
+            <EditText
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tvWorkflowActivityFilterName"
+                    android:layout_marginTop="0dp"
+                    android:id="@+id/etWorkflowActivity"
+                    android:clickable="true"
+                    android:editable="false"
+                    android:focusable="false"
+                    android:gravity="left"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="3dp"
+                    android:singleLine="false" />
+        </RelativeLayout>
+    </ScrollView>
+</FrameLayout>
